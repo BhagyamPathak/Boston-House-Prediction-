@@ -65,3 +65,12 @@ You can later improve it by:
 ```bash
 git clone https://github.com/YOUR-USERNAME/boston-house-price-prediction.git
 cd boston-house-price-prediction
+```
+
+## 📜 License
+
+This project is for educational purposes only.
+Dataset sourced from the U.S. Census Boston Housing Data.
+
+## 🙋‍♂️ Author
+Made with ❤️ by Bhagyam Pathak
